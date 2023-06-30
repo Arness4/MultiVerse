@@ -1,0 +1,11 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/baiboly">
+<file alias="qml/windows/main.qml">F:/Qt/bible/baiboly/qml/windows/main.qml</file>
+<file alias="qml/component/BToolBar.qml">F:/Qt/bible/baiboly/qml/component/BToolBar.qml</file>
+<file alias="qml/windows/RemoteDialog.qml">F:/Qt/bible/baiboly/qml/windows/RemoteDialog.qml</file>
+<file alias="qml/windows/Live.qml">F:/Qt/bible/baiboly/qml/windows/Live.qml</file>
+<file alias="qml/component/BMenuBar.qml">F:/Qt/bible/baiboly/qml/component/BMenuBar.qml</file>
+<file alias="qml/component/Sidebar.qml">F:/Qt/bible/baiboly/qml/component/Sidebar.qml</file>
+<file alias="qml/component/BAction.qml">F:/Qt/bible/baiboly/qml/component/BAction.qml</file>
+</qresource>
+</RCC>

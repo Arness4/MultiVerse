@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="i18n">
+<file alias="baiboly_en_US.qm">F:/Qt/bible/baiboly/debug/baiboly_en_US.qm</file>
+<file alias="baiboly_fr_FR.qm">F:/Qt/bible/baiboly/debug/baiboly_fr_FR.qm</file>
+<file alias="baiboly_mg_MG.qm">F:/Qt/bible/baiboly/debug/baiboly_mg_MG.qm</file>
+</qresource>
+</RCC>

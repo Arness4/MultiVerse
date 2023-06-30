@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/js/values.js</file>
+        <file>assets/images/bg_blue.jpg</file>
+        <file>assets/images/bg_red.jpg</file>
+        <file>assets/images/bible4.ico</file>
+        <file>assets/images/book02.ico</file>
+        <file>assets/images/copy_disabled.png</file>
+        <file>assets/images/copy_hover.png</file>
+        <file>assets/images/copy_normal.png</file>
+        <file>assets/images/en_hidden.png</file>
+        <file>assets/images/en_shown.png</file>
+        <file>assets/images/fr_hidden.png</file>
+        <file>assets/images/fr_shown.png</file>
+        <file>assets/images/france-flag-icon-128.png</file>
+        <file>assets/images/live.png</file>
+        <file>assets/images/live_off.png</file>
+        <file>assets/images/madagascar-flag-icon-128.png</file>
+        <file>assets/images/magnif01.ico</file>
+        <file>assets/images/mg_hidden.png</file>
+        <file>assets/images/mg_shown.png</file>
+        <file>assets/images/united-states-of-america-flag-icon-128.png</file>
+        <file>assets/images/star.png</file>
+        <file>assets/images/left_arrow.png</file>
+        <file>assets/images/right_arrow.png</file>
+    </qresource>
+</RCC>
